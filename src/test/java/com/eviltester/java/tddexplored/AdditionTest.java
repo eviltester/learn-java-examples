@@ -1,4 +1,4 @@
-package com.javafortesters.tddexplored;
+package com.eviltester.java.tddexplored;
 
 import org.junit.Assert;
 import org.junit.Test;

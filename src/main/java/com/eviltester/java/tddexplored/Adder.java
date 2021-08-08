@@ -1,4 +1,4 @@
-package com.javafortesters.tddexplored;
+package com.eviltester.java.tddexplored;
 
 /**
  * Created by Alan on 05/04/2017.

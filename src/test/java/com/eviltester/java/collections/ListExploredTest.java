@@ -1,4 +1,4 @@
-package com.javafortesters.collections;
+package com.eviltester.java.collections;
 
 import org.junit.Assert;
 import org.junit.Test;

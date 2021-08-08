@@ -1,4 +1,4 @@
-package com.javafortesters.selection;
+package com.eviltester.java.selection;
 
 import org.junit.Test;
 

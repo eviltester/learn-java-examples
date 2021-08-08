@@ -1,4 +1,4 @@
-package com.javafortesters.arrays;
+package com.eviltester.java.arrays;
 
 import org.junit.Assert;
 import org.junit.Test;

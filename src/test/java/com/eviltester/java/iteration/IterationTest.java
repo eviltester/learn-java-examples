@@ -1,4 +1,4 @@
-package com.javafortesters.iteration;
+package com.eviltester.java.iteration;
 
 import org.junit.Test;
 

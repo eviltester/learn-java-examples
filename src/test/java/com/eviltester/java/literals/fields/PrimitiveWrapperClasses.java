@@ -1,4 +1,4 @@
-package com.javafortesters.literals.fields;
+package com.eviltester.java.literals.fields;
 
 public class PrimitiveWrapperClasses {
 

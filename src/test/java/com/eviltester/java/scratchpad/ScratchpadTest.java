@@ -1,4 +1,4 @@
-package com.javafortesters.scratchpad;
+package com.eviltester.java.scratchpad;
 
 import org.junit.Test;
 

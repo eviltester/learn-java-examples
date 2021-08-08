@@ -1,4 +1,4 @@
-package com.javafortesters.sequence;
+package com.eviltester.java.sequence;
 
 import org.junit.Test;
 
